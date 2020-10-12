@@ -1,5 +1,7 @@
-Coding on python, c#, html and lua.
+<style>
+h1 {
+text-align: center;
+}
 
-<h1>Irwing#9541</h1>
-
-discord.gg/KdmN9M4
+</style>
+<h1>Coding on python, c#, html and lua.</h1>
