@@ -1,4 +1,9 @@
-
+<style>
+  h1 {
+  font-family: "Comic Sans MS";
+  }
+  
+  </style>
 <h1>Coding on python, c#, html and lua.</h1>
 
 Contact me:
